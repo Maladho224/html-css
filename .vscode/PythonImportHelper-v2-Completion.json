@@ -1,0 +1,11 @@
+[
+    {
+        "label": "ff",
+        "kind": 2,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "def ff():\n      print(\"gggg\")\nff()",
+        "detail": "test",
+        "documentation": {}
+    }
+]
